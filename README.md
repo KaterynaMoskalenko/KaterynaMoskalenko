@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KaterynaMoskalenko
-- 👀 I’m interested in frontend developing, learning english
+- 👀 I’m interested in frontend developing, learning english and deutsch
 - 🌱 I’m currently learning HTML, SCSS, JS, jQuery, VueJS
 - 💞️ I’m looking to collaborate on EPAM
 - 📫 How to reach me my first work as developer
